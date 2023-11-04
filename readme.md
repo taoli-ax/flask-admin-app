@@ -48,4 +48,4 @@ def init_admin():
 
 
 ## create views
-详见 flask-admin官方示例：examples/sqla
+详见 flask-admin官方示例：https://github.com/flask-admin/flask-admin/tree/master/examples/sqla
